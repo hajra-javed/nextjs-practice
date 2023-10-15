@@ -1,0 +1,10 @@
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.details img {
+  width: 50vw;
+  height: auto;
+  object-fit: contain;
+}
